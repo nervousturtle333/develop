@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://nervousturtle333.github.io/development`
+If you used the stencil code, this is `https://nervousturtle333.github.io/develop`
 
 ### Goal and Value of the Application
 This application contains different books that are across different genres and languages. The user should be able to 
