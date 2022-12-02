@@ -11,10 +11,10 @@ Additionally, the user can filter viewed books by genre and language they are in
 
 ### Usability Principles Considered
 I decided to split the screen into two parts so that the user can see their reading list and then on the top right be 
-able to apply filters and sort. Additionally, I relied on consistency through using component to make sure all books 
-are displayed in a similar structure. The selection of books also ranges across different languages adn genres 
-which is a ore accurate representation of books and texts everywhere. Additionally, the checkbox updates and only books
-whose criteria match something applied will be presented, which accomplished efficiency, accuracy, and memorability 
+able to apply filters and sort. Additionally, I relied on consistency through using components to make sure all books 
+are displayed in a similar structure. The selection of books also ranges across different languages and genres 
+which is a more accurate representation of books and texts everywhere. Additionally, the checkbox updates and only books
+whose criteria match filters applied will be presented, which accomplishes efficiency, accuracy, and memorability 
 since all filters work the same way. 
 
 ### Organization of Components
