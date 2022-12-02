@@ -172,7 +172,7 @@ function App() {
             {
               getReadingListItems()
             }
-            <div> Total Price of Reading List: {totalPrice().toFixed(2)} </div>
+            <div> Total Price of Reading List: {totalPrice().toFixed(2)}$ </div>
             <div>
               {/* This part here is for sorting features */}
               <label htmlFor="rating">Sort By Rating</label>
