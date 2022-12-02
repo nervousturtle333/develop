@@ -10,6 +10,7 @@ function BakeryItem({item, readingList, addToReadingList, removeFromReadingList}
 
             <Card.Body>
                 <Card.Title> {item.name} </Card.Title>
+                <Card.Subtitle>Author: {item.author}$ </Card.Subtitle>
                 <Card.Subtitle>Price: {item.price}$ </Card.Subtitle>
                 <Card.Subtitle>Language: {item.language} </Card.Subtitle>
                 <Card.Subtitle>Genre: {item.genre} </Card.Subtitle>
