@@ -13,7 +13,7 @@ function BakeryItem({item, readingList, addToReadingList, removeFromReadingList}
                 <Card.Subtitle>Price: {item.price}$ </Card.Subtitle>
                 <Card.Subtitle>Language: {item.language} </Card.Subtitle>
                 <Card.Subtitle>Genre: {item.genre} </Card.Subtitle>
-                <Card.Subtitle>User Rating: {item.rating} </Card.Subtitle>
+                <Card.Subtitle>User Rating: {item.rating} / 5 </Card.Subtitle>
 
                 <Card.Text style={{maxHeight: "100px", overflow: "hidden"}}> {item.description} </Card.Text>
                 {
